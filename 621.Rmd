@@ -1,0 +1,62 @@
+---
+output:
+  html_document:
+    toc: no
+    number_sections: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+
+#곽민서 {color: black;
+  text-align: center;
+}
+
+
+</style>
+</head>
+<body>
+
+<h1 id="곽민서">**곽민서**</h1>
+
+<p>이메일 주소: rhkralstj0103@gmail.com</p>
+<p>전화번호: 010-2647-7232</p>
+
+
+***
+
+<h5> <p align= "center"> **전략, 기획** 분야 업무를 희망합니다.</p>
+<p align= "center">현재 한양대학교 경영전략학회 HESA에서 케이스 스터디, 산학협력을 수행하고 있습니다. </p>
+<p align= "center">**논리적, 전략적 사고**를 통해 문제를 정확히 분석하고 최적의  해결책을 제시할 수 있습니다. </p>
+<p align= "center">산학협력 공모전에서 역량을 발휘하여 기업의 현상황에 알맞은 전략을 제시해주었고, 좋은 성적을 거두었습니다. </p></h5>
+***
+
+<h3>**학력**</h3>
+<h5>**서울 신용산초등학교** - <span style= "color: gray">2010.03 ~ 2016.02</span></h5>
+<h5>**서울 용강중학교** - <span style= "color: gray">2016.03 ~ 2019.02</span></h5>
+<h5>**서울 오산고등학교** - <span style= "color: gray">2019.03 ~ 2022.02</span></h5>
+<h5>**경희대학교 경영학부** - <span style= "color: gray">2022.03 ~ 2022.12</span><br>
+<ul> <li>경희대학교 경영전략학회 Proseed - <span style= "color: gray">2022.03 ~ 2022.12</span></li> </ul></h5>
+<h5>**한양대학교 경영학부** - <span style= "color: gray">2023.03 ~ 현재</span><br>
+<ul> <li>한양대학교 경영전략학회 HESA - <span style= "color: gray">2023.03 ~ 현재</span></li> </ul></h5>
+
+***
+
+<h3>**수상**</h3>
+<h5>**(주)넥슨코리아** **"대학 경영전략학회 산학협력"** **(대상)** - <span style= "color: gray">2022.06.02</span></h5>
+<h5>**(주)에이스침대** **산학협력 공모전"** **(최우수상)** - <span style= "color: gray">2023.05.23</span></h5>
+<h5>**한양대학교** **"2023 경영대학 경영의이해 최종 성과 공유회"** **(대상)** - <span style= "color: gray">2023.06.16</span></h5>
+
+***
+
+<h3>**업무 역량**</h3>
+<h5><ul><li>**Python** 간단한 프로그램을 제작하고 크롤링을 수행할 수 있습니다.</li>
+<li>**SQL** 데이터를 추출하여 정보를 분석할 수 있습니다.</li>
+<li>**R** 데이터를 그래프로 나타내어 자료를 분석하고, Rmarkdown을 통해 문서화하며, app을 제작할 수 있습니다.</li>
+
+
+</body>
+
